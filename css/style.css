@@ -230,9 +230,10 @@ body {
 }
 
 .menu .row .menu-card img {
-  border-radius: 10%;
   width: 250px;
-  height: auto;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 15px;
 }
 
 .menu .row .menu-card .menu-card-title {
